@@ -8,14 +8,18 @@ Simple 'playground' project to explore new technologies and libraries.
 ____________________________________________________________________________________________________________________________
 
 Project currently consist of 3 parts:
-1. 'tracker' 
+
+- 'tracker' 
+
 As a Resource server current module responsible for task and user information manipulation and storage;
 
-2. 'auth' 
+- 'auth'
+
 Custom AOuth2 Authentication server that provides JWT Tokens as authentication/authorization mean. Also supports SSO, 
 exchanging obtained tokens from external Auth Servers for custom JWT Tokens;
 
-3. 'shared' 
+- 'shared' 
+
 Holds Beans and Configuration classes shared between two previous modules.
 ____________________________________________________________________________________________________________________________
 
