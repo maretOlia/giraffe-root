@@ -1,13 +1,13 @@
 GIRAFFE
 ==========
 
-'Task tracker' is server-side application for private(not work related) task management. 
+'Task tracker' is a server-side application for private(not work related) task management. 
 Written in Java and based on Spring Boot/Data/OAuth2/HATEOAS and uses MySql DB as storage 
 
 Simple 'playground' project to explore new technologies and libraries. 
 ____________________________________________________________________________________________________________________________
 
-Project currently consist of 3 parts:
+The project currently consist of 3 parts:
 
 - 'tracker' 
 
