@@ -1,3 +1,1 @@
 include 'shared', 'tracker', 'auth'
-
-project(':shared').projectDir = new File('\\shared')
